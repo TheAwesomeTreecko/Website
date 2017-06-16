@@ -9,9 +9,10 @@ ul {
      width: 80%;
      overflow: hidden;
      background-color: #F0F0F0;
+     float: right;
    }
 li {
-     float: right;
+     float: left;
      border-right: 1px solid #bbb;
    }
 
