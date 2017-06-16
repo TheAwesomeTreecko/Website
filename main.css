@@ -11,7 +11,7 @@ ul {
      background-color: #F0F0F0;
    }
 li {
-     float: left;
+     float: right;
      border-right: 1px solid #bbb;
    }
 
