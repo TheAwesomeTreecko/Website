@@ -6,10 +6,9 @@ ul {
      margin: 0;
      padding: 0;
      top: 0;
-     width: 80%;
+     width: 100%;
      overflow: hidden;
      background-color: #F0F0F0;
-     float: right;
    }
 li {
      float: left;
